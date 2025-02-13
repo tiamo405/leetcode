@@ -47,4 +47,4 @@ class Solution(object):
                     ans.append([ai, aj, ak])
         return self.remove_arr(ans)
 a = Solution()
-print(a.threeSum([-1,0,1,2,-1,-4]))
+print(a.threeSum([-3,-2,-1,0,1,2,3]))
