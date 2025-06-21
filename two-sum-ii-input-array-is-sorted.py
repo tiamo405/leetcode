@@ -25,3 +25,4 @@ if __name__ == "__main__":
     target = 9
     result = solution.twoSum(numbers, target)
     print(result)  # Output: [1, 2]
+    
